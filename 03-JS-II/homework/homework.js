@@ -251,6 +251,7 @@ function doWhile(numero) {
     suma = suma + 5;
     
   }while(i<8)
+  
   return suma;
 }
 
